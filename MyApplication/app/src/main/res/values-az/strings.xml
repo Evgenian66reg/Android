@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Mənim ərizəm"</string>
+    <string name="onClick">Mənə klikləyin</string>
+    <string name="age">Doğum tarixi: 05.05.1983 Cinsi: Kişi</string>
+    <string name="contact">" evrinom45@gmail.com | 89000466591 | Yekaterinburq, Rusiya"</string>
+    <string name="fio">Qorbaçov Yevgeni</string>
+    <string name="profession">Backend-developer(JavaScript)</string>
+    <string name="skills">Bacarıqlar: MSSQL, MySQL, ASP.NET, ADO.NET, HTML, CSS, JavaScript, PHP, C#, C/C++, WPF</string>
+    <string name="aboutMe">" Haqqımda: Qeyri-kommersiya layihələri üzrə təxminən 1 illik təcrübə         HTML5, CSS, PHP, Javascript, Java istifadə edərək. Öyrənmək və yenidən hazırlamaq asandır. Şəxsi məqsəd - daimi         peşəkar artım."</string>
+    <string name="education">Təhsil: Orta ixtisas</string>
+    <string name="educationalInstitution">Təhsil müəssisəsi: Computer Academy TOP</string>
+    <string name="faculty">Fakültə: Proqram təminatının inkişafı</string>
+    <string name="specialization">" İxtisas: Proqram təminatı tərtibatçısı"</string>
+    <string name="yearEnding">" Bitmə ili: 2023"</string>
+    <string name="language">Dil bilikləri: Rus, İngilis-A1-Basic</string>
+    <string name="JavaScript">Çox paradiqmalı proqramlaşdırma dili.         Obyekt yönümlü, imperativ və funksional üslubları dəstəkləyir.         Adətən proqrama daxil olmaq üçün daxil edilə bilən dil kimi istifadə olunur         tətbiq obyektlərinə. Ən çox brauzerlərdə istifadə olunur         veb səhifələri interaktiv etmək üçün skript dili kimi</string>
+    <string name="Jv">" güclü tipli obyekt yönümlü         Sun Microsystems tərəfindən hazırlanmış ümumi məqsədli proqramlaşdırma dili         (sonradan Oracle tərəfindən alınıb). Cəmiyyət tərəfindən hazırlanmışdır         Java İcma Prosesi vasitəsilə təşkil edilir; dil və onu həyata keçirən əsas texnologiyalar         GPL lisenziyası altında paylanmışdır. Java proqramları adətən xüsusi bayt koduna çevrilir,         beləliklə, onlar tətbiqi mövcud olan istənilən kompüter arxitekturasında işləyə bilərlər         Java virtual maşın."</string>
+    <string name="Android">" Müxtəlif əməliyyat sistemi         elektron cihazlar. Əvvəlcə Android, Inc tərəfindən hazırlanmışdır.         sonra Google tərəfindən alınıb. Linux nüvəsi və mülkiyyət tətbiqi əsasında         Google-un Java Virtual Maşını. Daha sonra Google yaratmağa başladı         platformanı dəstəkləyən və daha da inkişaf etdirən Open Handset Alliance.         Android, hazırlanmış vasitəsilə cihazı idarə edən Java proqramlarını işə salmağa imkan verir         Google Kitabxanaları. Android Native Development Kit kitabxanaları portlamağa imkan verir         və C proqramlaşdırma dilində və digər dillərdə yazılmış proqram komponentləri."</string>
+
+</resources>

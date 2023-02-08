@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Resume</string>
+    <string name="onClick">Click Me</string>
+    <string name="age">Date of Birth: 05.05.1983  Gender: Male</string>
+    <string name="contact">evrinom45@gmail.com | 89000466591 | Ekaterinburg, Russia</string>
+    <string name="fio">Gorbachev Evgenian</string>
+    <string name="profession">Backend-developer(JavaScript)</string>
+    <string name="skills">Skills: MSSQL, MySQL, ASP.NET, ADO.NET, HTML, CSS, JavaScript, PHP, C#, C/C++, WPF</string>
+    <string name="aboutMe">About me: About 1 year of experience in non-commercial projects
+        using HTML5, CSS, PHP, Javascript, Java. Easy to learn and retrain. Personal goal - permanent
+        professional growth.</string>
+    <string name="education">Education: Secondary specialized </string>
+    <string name="educationalInstitution">Educational institution: Computer Academy TOP</string>
+    <string name="faculty">Faculty: Software Development</string>
+    <string name="specialization">Specialization: Software Developer</string>
+    <string name="yearEnding">Year of ending: 2023</string>
+    <string name="language">Language skills: Russian, English-A1-Basic</string>
+
+    <string name="JavaScript">Multi-paradigm programming language.
+        Supports object-oriented, imperative and functional styles.
+        Commonly used as an embeddable language for programmatic access
+        to application objects. Most widely used in browsers
+        as a scripting language for making web pages interactive</string>
+    <string name="Jv"> strongly typed object oriented
+        a general-purpose programming language developed by Sun Microsystems
+        (subsequently acquired by Oracle). Developed by the community
+        organized through the Java Community Process; language and the main technologies that implement it
+        distributed under the GPL license. Java applications are usually translated into special bytecode,
+        therefore they can run on any computer architecture for which an implementation exists
+        Java virtual machine.</string>
+    <string name="Android"> Operating system for various
+        electronic devices. Originally developed by Android, Inc.
+        which was then acquired by Google. Based on the Linux kernel and proprietary implementation
+        Google Java Virtual Machine. Subsequently, Google initiated the creation
+        the Open Handset Alliance, which supports and further develops the platform.
+        Android allows you to run Java applications that control the device through the developed
+        Google Libraries. Android Native Development Kit allows you to port libraries
+        and application components written in the C programming language and other languages.</string>
+</resources>

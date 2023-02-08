@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 我的應用程序"</string>
+    <string name="onClick">點我</string>
+    <string name="age">出生日期：1983 年 5 月 5 日性別：男</string>
+    <string name="contact">evrinom45@gmail.com | 89000466591 |俄羅斯葉卡捷琳堡</string>
+    <string name="fio">" 戈爾巴喬夫葉夫根尼"</string>
+    <string name="profession">" 後端開發人員(JavaScript)"</string>
+    <string name="skills">" 技能：MSSQL、MySQL、ASP.NET、ADO.NET、HTML、CSS、JavaScript、PHP、C#、C/C++、WPF"</string>
+    <string name="aboutMe">" 關於我：大約1年的非商業項目經驗         使用 HTML5、CSS、PHP、Javascript、Java。易於學習和再培訓。個人目標——永久         專業成長。"</string>
+    <string name="education">教育：中等專業</string>
+    <string name="educationalInstitution">教育機構：計算機學院TOP</string>
+    <string name="faculty">" 學院：軟件開發"</string>
+    <string name="specialization">" 專業化：軟件開發人員"</string>
+    <string name="yearEnding">" 結束年份：2023"</string>
+    <string name="language">" 語言技能：俄語、英語-A1-基礎"</string>
+    <string name="JavaScript">多範式編程語言。         支持面向對象、命令式和函數式風格。         通常用作編程訪問的可嵌入語言         到應用程序對象。在瀏覽器中使用最廣泛         作為使網頁交互的腳本語言</string>
+    <string name="Jv">" 強類型面向對象         由 Sun Microsystems 開發的一種通用編程語言         （後來被 Oracle 收購）。由社區開發         通過 Java Community Process 組織；語言和實現它的主要技術         在 GPL 許可證下分發。 Java應用程序通常被翻譯成特殊的字節碼，         因此它們可以在任何存在實現的計算機體系結構上運行         Java 虛擬機。"</string>
+    <string name="Android">各種操作系統         電子設備。最初由 Android, Inc. 開發。         後來被谷歌收購。基於 Linux 內核和專有實現         谷歌的 Java 虛擬機。隨後，谷歌發起創建         支持並進一步開發該平台的開放手機聯盟。         Android 允許您運行通過開發的 Java 應用程序來控制設備         谷歌圖書館。 Android Native Development Kit 允許您移植庫         以及用C編程語言和其他語言編寫的應用程序組件。</string>
+
+</resources>
