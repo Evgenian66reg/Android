@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="добавить книгу в библиотеку"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:layout_marginVertical="4dp"
+        android:layout_marginHorizontal="3dp"
+        android:backgroundTint="@color/green"/>
+
+    <Button
+        android:id="@+id/btn_getById"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="показать книгу по id"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:layout_below="@id/btn_add"
+        android:layout_marginVertical="4dp"
+        android:layout_marginHorizontal="3dp"
+        android:backgroundTint="@color/biruza"/>
+
+    <Button
+        android:id="@+id/btn_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="изменить данные книги"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:layout_below="@id/btn_getById"
+        android:layout_marginVertical="4dp"
+        android:layout_marginHorizontal="3dp"
+        android:backgroundTint="@color/blue"/>
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="удалить книгу из библиотеки"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:layout_marginVertical="4dp"
+        android:layout_marginHorizontal="3dp"
+        android:layout_below="@id/btn_update"
+        android:backgroundTint="@color/red"/>
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn_delete"/>
+
+</RelativeLayout>

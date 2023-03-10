@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddActivity">
+
+    <EditText
+        android:id="@+id/edit_bookName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="7dp"
+        android:layout_marginVertical="10dp"
+        android:hint="Введите название книги"/>
+
+    <EditText
+        android:id="@+id/edit_bookAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="7dp"
+        android:layout_marginVertical="10dp"
+        android:layout_below="@id/edit_bookName"
+        android:hint="Введите автора книги"/>
+
+    <EditText
+        android:id="@+id/edit_bookYearPublic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="7dp"
+        android:layout_marginVertical="10dp"
+        android:layout_below="@id/edit_bookAuthor"
+        android:hint="Введите год публикации книги"/>
+
+    <Button
+        android:id="@+id/btn_bookAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_bookYearPublic"
+        android:backgroundTint="@color/green_dark"
+        android:text="Добавить книгу в библиотеку"
+        android:textStyle="italic"
+        android:layout_marginHorizontal="3dp"/>
+
+    <Button
+        android:id="@+id/btn_list2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_bookAdd"
+        android:backgroundTint="@color/green"
+        android:text="показать библиотеку"
+        android:textStyle="italic"
+        android:layout_marginHorizontal="3dp"/>
+
+</RelativeLayout>
